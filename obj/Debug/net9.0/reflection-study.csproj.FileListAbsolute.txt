@@ -1,0 +1,15 @@
+C:\repo\reflection-study\bin\Debug\net9.0\reflection-study.exe
+C:\repo\reflection-study\bin\Debug\net9.0\reflection-study.deps.json
+C:\repo\reflection-study\bin\Debug\net9.0\reflection-study.runtimeconfig.json
+C:\repo\reflection-study\bin\Debug\net9.0\reflection-study.dll
+C:\repo\reflection-study\bin\Debug\net9.0\reflection-study.pdb
+C:\repo\reflection-study\obj\Debug\net9.0\reflection-study.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\reflection-study\obj\Debug\net9.0\reflection-study.AssemblyInfoInputs.cache
+C:\repo\reflection-study\obj\Debug\net9.0\reflection-study.AssemblyInfo.cs
+C:\repo\reflection-study\obj\Debug\net9.0\reflection-study.csproj.CoreCompileInputs.cache
+C:\repo\reflection-study\obj\Debug\net9.0\reflection-study.sourcelink.json
+C:\repo\reflection-study\obj\Debug\net9.0\reflection-study.dll
+C:\repo\reflection-study\obj\Debug\net9.0\refint\reflection-study.dll
+C:\repo\reflection-study\obj\Debug\net9.0\reflection-study.pdb
+C:\repo\reflection-study\obj\Debug\net9.0\reflection-study.genruntimeconfig.cache
+C:\repo\reflection-study\obj\Debug\net9.0\ref\reflection-study.dll
